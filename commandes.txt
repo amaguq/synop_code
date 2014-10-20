@@ -1,0 +1,5 @@
+ autotrace  --output-file=../11.svg --color-count=2 --corner-threshold=180 --corner-surround=5000 code_synop_accrochage18.jpg
+
+autotrace  --output-file=../13.svg --color-count=2 --corner-always-threshold=180 --corner-surround=5000 code_synop_accrochage18.jpg
+=> Multitude d'angles à 45 degrés qui composent les courbes. Ressemble au bitmap.
+
